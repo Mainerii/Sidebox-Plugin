@@ -1,0 +1,12 @@
+name: AdmiralMC-Sidebox
+version: 1.0
+author: Maineri
+main: admiralmc.maineri.sidebox.Main
+description: Test
+
+depend: [PermissionsEx, Essentials, Factions]
+
+commands:
+  sidebox:
+    description: Command for managing sidebox
+    usage: /sidebox <show | hide>
